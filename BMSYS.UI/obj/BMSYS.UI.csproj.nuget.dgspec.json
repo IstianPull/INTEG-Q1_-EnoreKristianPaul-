@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.UI\\BMSYS.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.BL\\BMSYS.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.BL\\BMSYS.BL.csproj",
+        "projectName": "BMSYS.BL",
+        "projectPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.BL\\BMSYS.BL.csproj",
+        "packagesPath": "C:\\Users\\Krisore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Krisore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.DL.csproj": {
+                "projectPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.DL.csproj",
+        "projectName": "BMSYS.DL",
+        "projectPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.DL.csproj",
+        "packagesPath": "C:\\Users\\Krisore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Krisore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.UI\\BMSYS.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.UI\\BMSYS.UI.csproj",
+        "projectName": "BMSYS.UI",
+        "projectPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.UI\\BMSYS.UI.csproj",
+        "packagesPath": "C:\\Users\\Krisore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Krisore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.BL\\BMSYS.BL.csproj": {
+                "projectPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.BL\\BMSYS.BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

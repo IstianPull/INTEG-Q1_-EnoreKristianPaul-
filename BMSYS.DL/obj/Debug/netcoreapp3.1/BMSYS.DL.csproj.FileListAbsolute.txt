@@ -1,0 +1,9 @@
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.DL\bin\Debug\netcoreapp3.1\BMSYS.DL.deps.json
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.DL\bin\Debug\netcoreapp3.1\BMSYS.DL.dll
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.DL\bin\Debug\netcoreapp3.1\BMSYS.DL.pdb
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.DL\obj\Debug\netcoreapp3.1\BMSYS.DL.AssemblyInfoInputs.cache
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.DL\obj\Debug\netcoreapp3.1\BMSYS.DL.AssemblyInfo.cs
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.DL\obj\Debug\netcoreapp3.1\BMSYS.DL.csproj.CoreCompileInputs.cache
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.DL\obj\Debug\netcoreapp3.1\BMSYS.DL.dll
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.DL\obj\Debug\netcoreapp3.1\BMSYS.DL.pdb
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.DL\obj\Debug\netcoreapp3.1\BMSYS.DL.csproj.AssemblyReference.cache

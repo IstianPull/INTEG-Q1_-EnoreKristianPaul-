@@ -1,0 +1,12 @@
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\obj\Debug\netcoreapp3.1\BMSYS.BL.csproj.AssemblyReference.cache
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\obj\Debug\netcoreapp3.1\BMSYS.BL.AssemblyInfoInputs.cache
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\obj\Debug\netcoreapp3.1\BMSYS.BL.AssemblyInfo.cs
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\obj\Debug\netcoreapp3.1\BMSYS.BL.csproj.CoreCompileInputs.cache
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.BL.deps.json
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.BL.dll
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.BL.pdb
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.DL.dll
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.DL.pdb
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\obj\Debug\netcoreapp3.1\BMSYS.BL.csproj.CopyComplete
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\obj\Debug\netcoreapp3.1\BMSYS.BL.dll
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\obj\Debug\netcoreapp3.1\BMSYS.BL.pdb
