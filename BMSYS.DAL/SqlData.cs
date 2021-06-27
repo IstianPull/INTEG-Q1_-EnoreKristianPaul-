@@ -9,7 +9,8 @@ namespace BMSYS.DAL
     public class SqlData
     {
         static string connectionString = "Data Source=DESKTOP-Q5DOQT6;Initial Catalog=BMSYS;Persist Security Info=True;User ID=sa;Password=***********";
-        static SqlConnection sqlConnection = new SqlConnection(connectionString);
+        
+        static SqlConnection sqlConnection = new SqlConnection(connectionString);// not done yet
 
     }
 }

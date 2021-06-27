@@ -51,7 +51,7 @@ namespace BMSYS.BL
 
             } while (maxAttemp != 3);
             Console.WriteLine("Max Attemp Exceed!");
-            Console.WriteLine("Operation Suspend!...");
+            Console.WriteLine("Operation Operation Suspend!...");
             return false;
              
 
