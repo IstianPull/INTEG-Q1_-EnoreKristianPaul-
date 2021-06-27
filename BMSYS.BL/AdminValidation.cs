@@ -12,7 +12,7 @@ namespace BMSYS.BL
             new Admins(1, "User", "Pass"),
             new Admins(2, "Enore", "Kristian"),
         };
-        public void LogIn() 
+        public bool LogIn() 
         {
             AdminServices services = new AdminServices();
            
@@ -34,8 +34,9 @@ namespace BMSYS.BL
                         Console.WriteLine("");
                         successfull = true;
                         services.AdminCatalogue();
+                        return true;
 
-                        
+
                     }
                 }
                 if (!successfull)
@@ -50,13 +51,13 @@ namespace BMSYS.BL
 
             } while (maxAttemp != 3);
             Console.WriteLine("Max Attemp Exceed!");
-            Console.WriteLine("Operation Cease!...");
-
+            Console.WriteLine("Operation Suspend!...");
+            return false;
              
 
         }
 
-        public void Register()
+        public bool Register()
         {
             Console.Write("Enter your username:");
             var username = Console.ReadLine();
@@ -74,7 +75,8 @@ namespace BMSYS.BL
             Console.WriteLine("**       Successfully registered      **");
             Console.WriteLine("|Please Log in your Registered Account|");
             Console.WriteLine("");
-            LogIn();
+            
+            return LogIn(); 
         }
 
 
