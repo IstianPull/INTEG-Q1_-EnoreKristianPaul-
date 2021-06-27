@@ -9,8 +9,7 @@ namespace BMSYS.BL
     {
       List<Admins> AdminCredentials = new List<Admins>()
         {
-            new Admins(1, "User", "Pass"),
-            new Admins(2, "Enore", "Kristian"),
+            
         };
         public bool LogIn() 
         {
@@ -27,7 +26,7 @@ namespace BMSYS.BL
 
                 foreach (Admins user in AdminCredentials)
                 {
-                    if (username == user.userName && password == user.passWord)
+                    if (username == user.username && password == user.password)
                     {
                         Console.WriteLine("");
                         Console.WriteLine("You have successfully logged in !!!");
@@ -65,11 +64,10 @@ namespace BMSYS.BL
             Console.Write("Enter your password:");
             var password = Console.ReadLine();
 
-            Console.Write("Enter your id:");
-            int id = int.Parse(Console.ReadLine());
+           
 
 
-            AdminCredentials.Add(new Admins(id, username, password));
+            AdminCredentials.Add(new Admins(username, password));
 
             Console.WriteLine("");
             Console.WriteLine("**       Successfully registered      **");
