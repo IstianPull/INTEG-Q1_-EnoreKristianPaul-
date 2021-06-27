@@ -5,8 +5,8 @@ C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\obj\Debug\netcoreapp3.
 C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.BL.deps.json
 C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.BL.dll
 C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.BL.pdb
-C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.DL.dll
-C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.DL.pdb
 C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\obj\Debug\netcoreapp3.1\BMSYS.BL.csproj.CopyComplete
 C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\obj\Debug\netcoreapp3.1\BMSYS.BL.dll
 C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\obj\Debug\netcoreapp3.1\BMSYS.BL.pdb
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.COMMON.dll
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.BL\bin\Debug\netcoreapp3.1\BMSYS.COMMON.pdb

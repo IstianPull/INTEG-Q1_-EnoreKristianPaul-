@@ -28,7 +28,8 @@ namespace BMSYS.BL
                 case 3:
                     admin.RemoveBooks();
                     goto START;
-                default:
+                case 4:
+                    Console.WriteLine("Operation cease..");
                     break;
             }
         }

@@ -6,7 +6,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "BMSYS.DL": "1.0.0"
+          "BMSYS.COMMON": "1.0.0"
         },
         "compile": {
           "bin/placeholder/BMSYS.BL.dll": {}
@@ -15,14 +15,14 @@
           "bin/placeholder/BMSYS.BL.dll": {}
         }
       },
-      "BMSYS.DL/1.0.0": {
+      "BMSYS.COMMON/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/BMSYS.DL.dll": {}
+          "bin/placeholder/BMSYS.COMMON.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BMSYS.DL.dll": {}
+          "bin/placeholder/BMSYS.COMMON.dll": {}
         }
       }
     }
@@ -33,10 +33,10 @@
       "path": "../BMSYS.BL/BMSYS.BL.csproj",
       "msbuildProject": "../BMSYS.BL/BMSYS.BL.csproj"
     },
-    "BMSYS.DL/1.0.0": {
+    "BMSYS.COMMON/1.0.0": {
       "type": "project",
-      "path": "../BMSYS.DL/BMSYS.DL.csproj",
-      "msbuildProject": "../BMSYS.DL/BMSYS.DL.csproj"
+      "path": "../BMSYS.DL/BMSYS.COMMON.csproj",
+      "msbuildProject": "../BMSYS.DL/BMSYS.COMMON.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -45,7 +45,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Krisore\\.nuget\\packages\\": {}
+    "C:\\Users\\Krisore\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -56,8 +57,12 @@
       "packagesPath": "C:\\Users\\Krisore\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.UI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Krisore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

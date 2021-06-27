@@ -2,32 +2,33 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "BMSYS.DL/1.0.0": {
+      "BMSYS.COMMON/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/BMSYS.DL.dll": {}
+          "bin/placeholder/BMSYS.COMMON.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BMSYS.DL.dll": {}
+          "bin/placeholder/BMSYS.COMMON.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "BMSYS.DL/1.0.0": {
+    "BMSYS.COMMON/1.0.0": {
       "type": "project",
-      "path": "../BMSYS.DL/BMSYS.DL.csproj",
-      "msbuildProject": "../BMSYS.DL/BMSYS.DL.csproj"
+      "path": "../BMSYS.DL/BMSYS.COMMON.csproj",
+      "msbuildProject": "../BMSYS.DL/BMSYS.COMMON.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BMSYS.DL >= 1.0.0"
+      "BMSYS.COMMON >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Krisore\\.nuget\\packages\\": {}
+    "C:\\Users\\Krisore\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -38,8 +39,12 @@
       "packagesPath": "C:\\Users\\Krisore\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.BL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Krisore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.DL.csproj": {
-              "projectPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.DL.csproj"
+            "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.COMMON.csproj": {
+              "projectPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.COMMON.csproj"
             }
           }
         }

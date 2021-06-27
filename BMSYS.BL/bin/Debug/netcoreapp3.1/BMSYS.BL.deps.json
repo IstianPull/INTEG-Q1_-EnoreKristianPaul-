@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v3.1": {
       "BMSYS.BL/1.0.0": {
         "dependencies": {
-          "BMSYS.DL": "1.0.0"
+          "BMSYS.COMMON": "1.0.0"
         },
         "runtime": {
           "BMSYS.BL.dll": {}
         }
       },
-      "BMSYS.DL/1.0.0": {
+      "BMSYS.COMMON/1.0.0": {
         "runtime": {
-          "BMSYS.DL.dll": {}
+          "BMSYS.COMMON.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "BMSYS.DL/1.0.0": {
+    "BMSYS.COMMON/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

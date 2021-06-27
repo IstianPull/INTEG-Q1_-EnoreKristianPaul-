@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Krisore\\.nuget\\packages\\": {}
+    "C:\\Users\\Krisore\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.DL.csproj",
-      "projectName": "BMSYS.DL",
-      "projectPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.DL.csproj",
+      "projectUniqueName": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.COMMON.csproj",
+      "projectName": "BMSYS.COMMON",
+      "projectPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\BMSYS.COMMON.csproj",
       "packagesPath": "C:\\Users\\Krisore\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Krisore\\source\\repos\\BOOKMANAGEMENT_SYS\\BMSYS.DL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Krisore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

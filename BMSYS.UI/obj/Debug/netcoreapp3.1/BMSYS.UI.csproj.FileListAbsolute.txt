@@ -12,7 +12,7 @@ C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.UI\obj\Debug\netcoreapp3.
 C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.UI\obj\Debug\netcoreapp3.1\BMSYS.UI.pdb
 C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.UI\obj\Debug\netcoreapp3.1\BMSYS.UI.genruntimeconfig.cache
 C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.UI\bin\Debug\netcoreapp3.1\BMSYS.BL.dll
-C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.UI\bin\Debug\netcoreapp3.1\BMSYS.DL.dll
 C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.UI\bin\Debug\netcoreapp3.1\BMSYS.BL.pdb
-C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.UI\bin\Debug\netcoreapp3.1\BMSYS.DL.pdb
 C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.UI\obj\Debug\netcoreapp3.1\BMSYS.UI.csproj.CopyComplete
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.UI\bin\Debug\netcoreapp3.1\BMSYS.COMMON.dll
+C:\Users\Krisore\source\repos\BOOKMANAGEMENT_SYS\BMSYS.UI\bin\Debug\netcoreapp3.1\BMSYS.COMMON.pdb

@@ -13,7 +13,6 @@ namespace BMSYS.DL
                 this.id = id;
                 this.userName = userName;
                 this.passWord = passWord;
-
             }
 
     }
