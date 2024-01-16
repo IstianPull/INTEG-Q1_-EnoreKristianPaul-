@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="DevExpress.Data" Version="21.1.4" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
   <ItemGroup>
